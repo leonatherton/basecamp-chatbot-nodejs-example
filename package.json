@@ -1,0 +1,17 @@
+{
+  "name": "basecamp-chatbot-nodejs-example",
+  "version": "1.0.0",
+  "description": "A simple Basecamp Chatbot example using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "basecamp",
+    "chatbot",
+    "nodejs",
+    "example"
+  ],
+  "author": "Leon Atherton (https://twitter.com/AthertonLeon)",
+  "license": "ISC"
+}
